@@ -61,6 +61,13 @@
 			<scope>test</scope>
 		</dependency>
 
+		<!-- Msql-azure -->
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>mssql-jdbc</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+
 		<!-- H2 -->
 		<dependency>
 			<groupId>com.h2database</groupId>
